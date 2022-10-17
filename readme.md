@@ -5,7 +5,6 @@ Este repositorio corresponde a la aplicación desarrollada durante la redacción
 
 El objetivo de este proyecto muy simple es desarrollar una aplicación Node JS
 
-* Realmente cree un sitio web muy, muy básico con Express.
+* web con glitch
 * Gestionar la actualización de una base de datos SQL (SQlite).
 
-Los ejemplos con bases de datos MongoDB son bastante fáciles de encontrar
